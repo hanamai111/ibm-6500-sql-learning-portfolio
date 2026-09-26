@@ -1,0 +1,16 @@
+---
+title: "IBM 6500 SQL Learning Portfolio"
+author: "Han Mai"
+---
+
+**Student:** Han Mai  
+**Course:** IBM 6500 — Customer Insight Methods and Survey Research
+
+This portfolio brings together my DataCamp course-completion evidence, SQL learning notes, and potential applications to digital marketing analytics and my MSDM Culminating Experience Project. All three course reports will share this repository and website.
+
+## Reports
+
+- [Introduction to SQL](introduction-to-sql.html) — course-completion evidence and learning notes.
+- Introduction to BigQuery (to be completed).
+- Intermediate SQL (to be completed).
+
