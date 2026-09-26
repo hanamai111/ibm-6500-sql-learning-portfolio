@@ -312,4 +312,4 @@ I expect to return to the difference between selecting columns and limiting rows
 ## Appendix: Publication Links
 
 - [GitHub Repository](https://github.com/hanamai111/ibm-6500-sql-learning-portfolio)
-- **Published Introduction to SQL Report:** 
+- [Published Introduction to SQL Report](https://hanamai111.github.io/ibm-6500-sql-learning-portfolio/introduction-to-sql.html)
