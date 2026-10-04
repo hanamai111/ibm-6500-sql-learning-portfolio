@@ -1,5 +1,5 @@
 ---
-title: "IBM 6500 SQL Learning Portfolio"
+title: "IBM 6500 SQL and BigQuery Learning Portfolio"
 author: "Han Mai"
 ---
 
@@ -11,6 +11,6 @@ This portfolio brings together my DataCamp course-completion evidence, SQL learn
 ## Reports
 
 - [Introduction to SQL](introduction-to-sql.html) — course-completion evidence and learning notes.
-- Introduction to BigQuery (to be completed).
+- [Introduction to BigQuery](introduction-to-bigquery.html) — course-completion evidence and learning notes.
 - Intermediate SQL (to be completed).
 
