@@ -371,5 +371,3 @@ GROUP BY p.payment_installments;
 
 -   [GitHub Repository](https://github.com/hanamai111/ibm-6500-sql-learning-portfolio)
 -   [Published Introduction to BigQuery Report](https://hanamai111.github.io/ibm-6500-sql-learning-portfolio/introduction-to-bigquery.html)
-
-*Publication status: the direct report URL is reserved for this page and will be verified after local review and approval to publish.*
