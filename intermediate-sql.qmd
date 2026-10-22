@@ -2,6 +2,14 @@
 title: "Intermediate SQL: Course Completion and Learning Notes"
 author: "Han Mai"
 date: "2026-10-21"
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 3
+    number-sections: true
+    smooth-scroll: true
+    embed-resources: true
 ---
 
 **Student:** Han Mai  
@@ -258,8 +266,6 @@ I expect to return to the aggregation examples when checking totals, the transfo
 ### Published Intermediate SQL report
 
 [Published Intermediate SQL report](https://hanamai111.github.io/ibm-6500-sql-learning-portfolio/intermediate-sql.html)
-
-This report belongs to the same SQL and BigQuery portfolio as the two earlier reports.
 
 ### Portfolio landing page
 
